@@ -4,7 +4,7 @@
 
 This project is based on the Udemy Course on [ReactJS](#react-course). The project is a landing page created in React.
 
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Working Application - Deployed](https://stellar-platypus-0aa953.netlify.app)
 #### Create New React App
 
 - install
